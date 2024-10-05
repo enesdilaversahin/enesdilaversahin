@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SA in TSP combinatorial optimization](https://github.com/enesdilaversahin/SimulatedAnnealing)
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Vpn, nftables, C**
+- 🌱 I’m currently learning **SIEM Prouctd, nftables, C++
 
 - 📝 I regularly write articles on [https://medium.com/@enesdilaver_sahin](https://medium.com/@enesdilaver_sahin)
 
