@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dilaver Şahin</h1>
 <h3 align="center">A passionate System and Network Specialist</h3>
 
-- 🔭 I’m currently working on [SA in TSP combinatorial optimization](https://github.com/enesdilaversahin/SimulatedAnnealing)
+- 🔭 I’m currently working on [Log Managment and analyzing)
 
 - 🌱 I’m currently learning **SIEM Prouctd, nftables, C++
 
