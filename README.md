@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enesdilaversahin@gmail.com**
 
-- 🌐 My Website [Webiste](https://enesdilaversahin@gmail.com.tr)
+- 🌐 My Website [www.enesdilaversahin@gmail.com.tr](https://www.enesdilaversahin@gmail.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
