@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Dilaver Şahin</h1>
-<h3 align="center">A passionate System and Network Specialist</h3>
+<h3 align="center">A passionate Cyber Student </h3>
 
 - 🔭 I’m currently working on [Log Managment and analyzing)
 
-- 🌱 I’m currently learning **SIEM Prouctd, nftables, C++
+- 🌱 I’m currently learning **SIEM Prouctd, nftables, C++, Grraylog
 
 - 📝 I regularly write articles on [https://medium.com/@enesdilaver_sahin](https://medium.com/@enesdilaver_sahin)
 
 - 📫 How to reach me **enesdilaversahin@gmail.com**
+
+- 🌐 My Website [Webiste](https://enesdilaversahin@gmail.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
