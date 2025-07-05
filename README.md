@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dilaver Şahin</h1>
 <h3 align="center">A passionate Cyber Student </h3>
 
-- 🔭 I’m currently working on [Log Managment and analyzing)
+- 🔭 I’m currently working on [A project for Classiciation)
 
-- 🌱 I’m currently learning **SIEM Prouctd, nftables, C++, Grraylog
+- 🌱 I’m currently learning **Features exraction, Python, Zabbix 
 
 - 📝 I regularly write articles on [https://medium.com/@enesdilaver_sahin](https://medium.com/@enesdilaver_sahin)
 
