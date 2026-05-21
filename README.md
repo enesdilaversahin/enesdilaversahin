@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dilaver Şahin</h1>
-<h3 align="center">A passionate Administrator </h3>
+<h3 align="center">A Passionate Engineer </h3>
 
 - 🔭 I’m currently working on [A project for ICAs and SIEM product)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enesdilaversahin@gmail.com**
 
-- 🌐 My Website [www.enesdilaversahin.com.tr](https://www.enesdilaversahin.com.tr)
+- 🌐 My Website [www.enesdilaversahin.com.tr](https://enesdilaversahin.github.io/mywebsite/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
